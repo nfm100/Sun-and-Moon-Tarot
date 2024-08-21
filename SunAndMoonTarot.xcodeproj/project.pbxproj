@@ -7,20 +7,49 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		510DC0CE2C3F6130003A144D /* DetailCardView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 510DC0AD2C3F612F003A144D /* DetailCardView.swift */; };
+		510DC0CF2C3F6130003A144D /* ThreeCards.swift in Sources */ = {isa = PBXBuildFile; fileRef = 510DC0AE2C3F612F003A144D /* ThreeCards.swift */; };
+		510DC0D02C3F6130003A144D /* Storage Models.swift in Sources */ = {isa = PBXBuildFile; fileRef = 510DC0B02C3F612F003A144D /* Storage Models.swift */; };
+		510DC0D22C3F6130003A144D /* ReadingDetailView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 510DC0B22C3F612F003A144D /* ReadingDetailView.swift */; };
+		510DC0D32C3F6130003A144D /* Decks.swift in Sources */ = {isa = PBXBuildFile; fileRef = 510DC0B32C3F612F003A144D /* Decks.swift */; };
+		510DC0D42C3F6130003A144D /* Readings.swift in Sources */ = {isa = PBXBuildFile; fileRef = 510DC0B42C3F612F003A144D /* Readings.swift */; };
+		510DC0D52C3F6130003A144D /* Celtic.swift in Sources */ = {isa = PBXBuildFile; fileRef = 510DC0B52C3F612F003A144D /* Celtic.swift */; };
+		510DC0D62C3F6130003A144D /* DataManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = 510DC0B62C3F612F003A144D /* DataManager.swift */; };
+		510DC0DC2C3F6130003A144D /* YesNo.swift in Sources */ = {isa = PBXBuildFile; fileRef = 510DC0BD2C3F612F003A144D /* YesNo.swift */; };
+		510DC0DF2C3F6130003A144D /* MainView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 510DC0C02C3F612F003A144D /* MainView.swift */; };
+		510DC0E02C3F6130003A144D /* DetailedDeckView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 510DC0C12C3F612F003A144D /* DetailedDeckView.swift */; };
+		510DC0E32C3F6130003A144D /* History.swift in Sources */ = {isa = PBXBuildFile; fileRef = 510DC0C42C3F612F003A144D /* History.swift */; };
+		510DC0E62C3F6130003A144D /* Settings.swift in Sources */ = {isa = PBXBuildFile; fileRef = 510DC0C82C3F6130003A144D /* Settings.swift */; };
+		510DC0E72C3F6130003A144D /* DeckHolder.swift in Sources */ = {isa = PBXBuildFile; fileRef = 510DC0C92C3F6130003A144D /* DeckHolder.swift */; };
+		510DC0F32C3F6307003A144D /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 510DC0F22C3F6307003A144D /* Assets.xcassets */; };
+		510DC0F62C3F6405003A144D /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 510DC0F42C3F6405003A144D /* Preview Assets.xcassets */; };
 		515D57EE2C3F600200B96638 /* SunAndMoonTarotApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 515D57ED2C3F600200B96638 /* SunAndMoonTarotApp.swift */; };
-		515D57F02C3F600200B96638 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 515D57EF2C3F600200B96638 /* ContentView.swift */; };
-		515D57F22C3F600200B96638 /* Item.swift in Sources */ = {isa = PBXBuildFile; fileRef = 515D57F12C3F600200B96638 /* Item.swift */; };
-		515D57F42C3F600400B96638 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 515D57F32C3F600400B96638 /* Assets.xcassets */; };
-		515D57F72C3F600400B96638 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 515D57F62C3F600400B96638 /* Preview Assets.xcassets */; };
+		51F9B1CF2C405D2F00EA0DED /* ColorChoice.swift in Sources */ = {isa = PBXBuildFile; fileRef = 51F9B1CE2C405D2F00EA0DED /* ColorChoice.swift */; };
+		51F9B1D22C405FF200EA0DED /* SettingsManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = 51F9B1D12C405FF200EA0DED /* SettingsManager.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		510DC0AD2C3F612F003A144D /* DetailCardView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = DetailCardView.swift; sourceTree = "<group>"; };
+		510DC0AE2C3F612F003A144D /* ThreeCards.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ThreeCards.swift; sourceTree = "<group>"; };
+		510DC0B02C3F612F003A144D /* Storage Models.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "Storage Models.swift"; sourceTree = "<group>"; };
+		510DC0B22C3F612F003A144D /* ReadingDetailView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ReadingDetailView.swift; sourceTree = "<group>"; };
+		510DC0B32C3F612F003A144D /* Decks.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Decks.swift; sourceTree = "<group>"; };
+		510DC0B42C3F612F003A144D /* Readings.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Readings.swift; sourceTree = "<group>"; };
+		510DC0B52C3F612F003A144D /* Celtic.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Celtic.swift; sourceTree = "<group>"; };
+		510DC0B62C3F612F003A144D /* DataManager.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = DataManager.swift; sourceTree = "<group>"; };
+		510DC0BD2C3F612F003A144D /* YesNo.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = YesNo.swift; sourceTree = "<group>"; };
+		510DC0C02C3F612F003A144D /* MainView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MainView.swift; sourceTree = "<group>"; };
+		510DC0C12C3F612F003A144D /* DetailedDeckView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = DetailedDeckView.swift; sourceTree = "<group>"; };
+		510DC0C42C3F612F003A144D /* History.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = History.swift; sourceTree = "<group>"; };
+		510DC0C82C3F6130003A144D /* Settings.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Settings.swift; sourceTree = "<group>"; };
+		510DC0C92C3F6130003A144D /* DeckHolder.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = DeckHolder.swift; sourceTree = "<group>"; };
+		510DC0F22C3F6307003A144D /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; name = Assets.xcassets; path = ActualDecks/Assets.xcassets; sourceTree = "<group>"; };
+		510DC0F42C3F6405003A144D /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		51201F752C3F66A200D5E5E1 /* SunAndMoonTarot.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = SunAndMoonTarot.entitlements; sourceTree = "<group>"; };
 		515D57EA2C3F600200B96638 /* SunAndMoonTarot.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SunAndMoonTarot.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		515D57ED2C3F600200B96638 /* SunAndMoonTarotApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SunAndMoonTarotApp.swift; sourceTree = "<group>"; };
-		515D57EF2C3F600200B96638 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
-		515D57F12C3F600200B96638 /* Item.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Item.swift; sourceTree = "<group>"; };
-		515D57F32C3F600400B96638 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
-		515D57F62C3F600400B96638 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		51F9B1CE2C405D2F00EA0DED /* ColorChoice.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ColorChoice.swift; sourceTree = "<group>"; };
+		51F9B1D12C405FF200EA0DED /* SettingsManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SettingsManager.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -34,6 +63,51 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		510DC0EC2C3F61D6003A144D /* Readings */ = {
+			isa = PBXGroup;
+			children = (
+				510DC0BD2C3F612F003A144D /* YesNo.swift */,
+				510DC0AE2C3F612F003A144D /* ThreeCards.swift */,
+				510DC0B52C3F612F003A144D /* Celtic.swift */,
+			);
+			name = Readings;
+			sourceTree = "<group>";
+		};
+		510DC0ED2C3F6267003A144D /* History Data View */ = {
+			isa = PBXGroup;
+			children = (
+				510DC0B22C3F612F003A144D /* ReadingDetailView.swift */,
+			);
+			name = "History Data View";
+			sourceTree = "<group>";
+		};
+		510DC0EE2C3F6290003A144D /* Storage Files */ = {
+			isa = PBXGroup;
+			children = (
+				510DC0B02C3F612F003A144D /* Storage Models.swift */,
+				510DC0B62C3F612F003A144D /* DataManager.swift */,
+			);
+			path = "Storage Files";
+			sourceTree = "<group>";
+		};
+		510DC0F12C3F62D7003A144D /* ActualDecks */ = {
+			isa = PBXGroup;
+			children = (
+				510DC0C92C3F6130003A144D /* DeckHolder.swift */,
+				510DC0AD2C3F612F003A144D /* DetailCardView.swift */,
+				510DC0C12C3F612F003A144D /* DetailedDeckView.swift */,
+			);
+			path = ActualDecks;
+			sourceTree = "<group>";
+		};
+		510DC0F52C3F6405003A144D /* Preview Content */ = {
+			isa = PBXGroup;
+			children = (
+				510DC0F42C3F6405003A144D /* Preview Assets.xcassets */,
+			);
+			path = "Preview Content";
+			sourceTree = "<group>";
+		};
 		515D57E12C3F600200B96638 = {
 			isa = PBXGroup;
 			children = (
@@ -53,21 +127,31 @@
 		515D57EC2C3F600200B96638 /* SunAndMoonTarot */ = {
 			isa = PBXGroup;
 			children = (
+				51201F752C3F66A200D5E5E1 /* SunAndMoonTarot.entitlements */,
 				515D57ED2C3F600200B96638 /* SunAndMoonTarotApp.swift */,
-				515D57EF2C3F600200B96638 /* ContentView.swift */,
-				515D57F12C3F600200B96638 /* Item.swift */,
-				515D57F32C3F600400B96638 /* Assets.xcassets */,
-				515D57F52C3F600400B96638 /* Preview Content */,
+				510DC0C02C3F612F003A144D /* MainView.swift */,
+				510DC0B42C3F612F003A144D /* Readings.swift */,
+				510DC0EC2C3F61D6003A144D /* Readings */,
+				510DC0C42C3F612F003A144D /* History.swift */,
+				510DC0ED2C3F6267003A144D /* History Data View */,
+				510DC0EE2C3F6290003A144D /* Storage Files */,
+				510DC0B32C3F612F003A144D /* Decks.swift */,
+				510DC0F12C3F62D7003A144D /* ActualDecks */,
+				510DC0C82C3F6130003A144D /* Settings.swift */,
+				51F9B1D02C405D3700EA0DED /* Custom Colors */,
+				510DC0F22C3F6307003A144D /* Assets.xcassets */,
+				510DC0F52C3F6405003A144D /* Preview Content */,
 			);
 			path = SunAndMoonTarot;
 			sourceTree = "<group>";
 		};
-		515D57F52C3F600400B96638 /* Preview Content */ = {
+		51F9B1D02C405D3700EA0DED /* Custom Colors */ = {
 			isa = PBXGroup;
 			children = (
-				515D57F62C3F600400B96638 /* Preview Assets.xcassets */,
+				51F9B1CE2C405D2F00EA0DED /* ColorChoice.swift */,
+				51F9B1D12C405FF200EA0DED /* SettingsManager.swift */,
 			);
-			path = "Preview Content";
+			name = "Custom Colors";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -128,8 +212,8 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				515D57F72C3F600400B96638 /* Preview Assets.xcassets in Resources */,
-				515D57F42C3F600400B96638 /* Assets.xcassets in Resources */,
+				510DC0F62C3F6405003A144D /* Preview Assets.xcassets in Resources */,
+				510DC0F32C3F6307003A144D /* Assets.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -140,9 +224,23 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				515D57F02C3F600200B96638 /* ContentView.swift in Sources */,
-				515D57F22C3F600200B96638 /* Item.swift in Sources */,
+				510DC0D32C3F6130003A144D /* Decks.swift in Sources */,
+				510DC0E62C3F6130003A144D /* Settings.swift in Sources */,
+				510DC0D62C3F6130003A144D /* DataManager.swift in Sources */,
+				510DC0DF2C3F6130003A144D /* MainView.swift in Sources */,
+				510DC0DC2C3F6130003A144D /* YesNo.swift in Sources */,
+				510DC0D02C3F6130003A144D /* Storage Models.swift in Sources */,
+				51F9B1CF2C405D2F00EA0DED /* ColorChoice.swift in Sources */,
+				510DC0E32C3F6130003A144D /* History.swift in Sources */,
 				515D57EE2C3F600200B96638 /* SunAndMoonTarotApp.swift in Sources */,
+				51F9B1D22C405FF200EA0DED /* SettingsManager.swift in Sources */,
+				510DC0D52C3F6130003A144D /* Celtic.swift in Sources */,
+				510DC0CF2C3F6130003A144D /* ThreeCards.swift in Sources */,
+				510DC0D22C3F6130003A144D /* ReadingDetailView.swift in Sources */,
+				510DC0D42C3F6130003A144D /* Readings.swift in Sources */,
+				510DC0CE2C3F6130003A144D /* DetailCardView.swift in Sources */,
+				510DC0E02C3F6130003A144D /* DetailedDeckView.swift in Sources */,
+				510DC0E72C3F6130003A144D /* DeckHolder.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -201,7 +299,7 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				IPHONEOS_DEPLOYMENT_TARGET = 17.5;
+				IPHONEOS_DEPLOYMENT_TARGET = 17.0;
 				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
 				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
 				MTL_FAST_MATH = YES;
@@ -258,7 +356,7 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				IPHONEOS_DEPLOYMENT_TARGET = 17.5;
+				IPHONEOS_DEPLOYMENT_TARGET = 17.0;
 				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
 				MTL_ENABLE_DEBUG_INFO = NO;
 				MTL_FAST_MATH = YES;
@@ -273,12 +371,15 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_ENTITLEMENTS = SunAndMoonTarot/SunAndMoonTarot.entitlements;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_ASSET_PATHS = "\"SunAndMoonTarot/Preview Content\"";
 				DEVELOPMENT_TEAM = CQ6RNRFC8T;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_CFBundleDisplayName = Tarot;
+				INFOPLIST_KEY_LSApplicationCategoryType = "public.app-category.reference";
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
@@ -291,9 +392,13 @@
 				MARKETING_VERSION = 1.0;
 				PRODUCT_BUNDLE_IDENTIFIER = nfm100.SunAndMoonTarot;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator";
+				SUPPORTS_MACCATALYST = NO;
+				SUPPORTS_MAC_DESIGNED_FOR_IPHONE_IPAD = NO;
+				SUPPORTS_XR_DESIGNED_FOR_IPHONE_IPAD = NO;
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
-				TARGETED_DEVICE_FAMILY = "1,2";
+				TARGETED_DEVICE_FAMILY = 1;
 			};
 			name = Debug;
 		};
@@ -302,12 +407,15 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_ENTITLEMENTS = SunAndMoonTarot/SunAndMoonTarot.entitlements;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_ASSET_PATHS = "\"SunAndMoonTarot/Preview Content\"";
 				DEVELOPMENT_TEAM = CQ6RNRFC8T;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_CFBundleDisplayName = Tarot;
+				INFOPLIST_KEY_LSApplicationCategoryType = "public.app-category.reference";
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
@@ -320,9 +428,13 @@
 				MARKETING_VERSION = 1.0;
 				PRODUCT_BUNDLE_IDENTIFIER = nfm100.SunAndMoonTarot;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator";
+				SUPPORTS_MACCATALYST = NO;
+				SUPPORTS_MAC_DESIGNED_FOR_IPHONE_IPAD = NO;
+				SUPPORTS_XR_DESIGNED_FOR_IPHONE_IPAD = NO;
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
-				TARGETED_DEVICE_FAMILY = "1,2";
+				TARGETED_DEVICE_FAMILY = 1;
 			};
 			name = Release;
 		};
